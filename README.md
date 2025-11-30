@@ -55,10 +55,24 @@
 
 #### 사과(apple)
 ![사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/)
-- [사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")
+*[사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")*
 
 #### 에펠탑
 ![에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/)
-- [에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")
+*[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
 
----
+## ⚠️ 이미지 삽입시 주의사항 ⚠️
+
+**위와 같이 사진이 있는 사이트를 그냥 복사해서 올 경우 접근 금지, 즉 외부 링크 차단을 함!!**
+
+#### How (방법은?)
+- 이미지를 **README**가 있는 파일에 저장하고 그걸 불러와야 함!!⭐️
+
+## 제대로 된 이미지(image) 업로드
+#### 사과(apple)
+![사과(apple)](/Users/juuunheeee6/newfile/apples-1506119_1280.jpg)
+*[사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")*
+
+#### 에펠탑
+![에펠탑](/Users/juuunheeee6/newfile/eiffel-tower-2000717_1280.jpg)
+*[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
