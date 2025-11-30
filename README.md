@@ -80,3 +80,43 @@
 ![에펠탑](eiffel-tower-2000717_1280.jpg)
 
 출처: *[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
+
+---
+
+## **[문제(question)]**
+
+<details>
+<summary>Q1. 이미지 삽입 시 주의 사항은 무엇인가요?</summary>
+<br>
+
+**A. README 파일이 있는 곳(같은 폴더)에 사진을 저장 후 불러와야 합니다.**
+(외부 링크를 그냥 쓰면 403 에러로 사진이 안 보일 수 있습니다.)
+
+</details>
+
+<details>
+<summary>Q2. 불렛(목록)을 만드는 기호 3가지는?</summary>
+<br>
+
+**A. `*` (별표), `-` (빼기), `+` (더하기)**
+이 중 아무거나 사용해도 됩니다.
+
+</details>
+
+<details>
+<summary>Q3. 불렛 기호 3가지의 결과 모양은 서로 다르다? (O/X)</summary>
+<br>
+
+**A. 정답은 [ X ] 입니다.**
+작성할 때 기호만 다를 뿐, 결과물은 모두 **똑같은 점(•)**으로 나옵니다.
+
+</details>
+
+<details>
+<summary>Q4. 텍스트 강조(굵게, 기울임) 시 주의 사항은?</summary>
+<br>
+
+**A. 양쪽을 꼭 닫아줘야 합니다.**
+샌드위치처럼 글자 앞뒤를 기호로 감싸야 제대로 작동합니다. (예: `**강조**`)
+
+</details>
