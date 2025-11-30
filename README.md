@@ -48,3 +48,17 @@
 
 - ❌ 잘못된 예: `**닫는 걸 깜빡하면 안 돼요`
 - ✅ 올바른 예: `**꼭 양쪽을 닫아주세요**`
+
+---
+
+## 3. 이미지(image) -> **README** 파일에 업로드 🌉
+
+#### 사과(apple)
+![사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/)
+- [사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")
+
+#### 에펠탑
+![에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/)
+- [에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")
+
+---
