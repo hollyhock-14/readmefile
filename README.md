@@ -56,12 +56,12 @@
 #### 사과(apple)
 ![사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/)
 
-*[사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")*
+출처: *[사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")*
 
 #### 에펠탑
 ![에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/)
 
-*[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
+출처: *[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
 
 ## ⚠️ 이미지 삽입시 주의사항 ⚠️
 
@@ -74,9 +74,9 @@
 #### 사과(apple)
 ![사과(apple)](apples-1506119_1280.jpg)
 
-*[사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")*
+출처: *[사과(apple)](https://pixabay.com/photos/apples-red-pair-fruits-red-apples-1506119/ "출처 : Pixaba")*
 
 #### 에펠탑
 ![에펠탑](eiffel-tower-2000717_1280.jpg)
 
-*[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
+출처: *[에펠탑](https://pixabay.com/photos/eiffel-tower-paris-the-city-france-2000717/ "출처 : Pixabay")*
